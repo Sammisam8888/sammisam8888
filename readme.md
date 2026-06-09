@@ -27,6 +27,32 @@ I'm a Full Stack Engineer focused on **AI-integrated systems** and **scalable ba
 
 ---
 
+## Experience
+
+**🚀 [NerveBase AI](#) — Full Stack SDE**
+`Apr 2026 – Present · Mumbai`
+Engineering a production-grade, multi-tenant documentary-intelligence platform — RAG pipelines with `pgvector` (1536-dim embeddings), event-driven microservices via `pg-boss`, and MCP-powered NLP on Azure + Supabase.
+
+**🧭 [OPM Corporation](#) — SDE II · Project Lead**
+`Aug 2025 – Dec 2025 · Bhubaneswar`
+Architected scalable Django + Express backends (MongoDB, PostgreSQL) across Azure and AWS EC2, and led production React Native releases to Android and iOS.
+
+<details>
+<summary><b>Earlier roles</b> — backend, cloud & AI internships</summary>
+
+<br>
+
+| Role | Company | Period |
+|------|---------|--------|
+| Associate Software Developer | NoDevBuild | Feb – Mar 2026 |
+| AI / Analytics Intern | WNS Global Services | Jul – Aug 2025 |
+| Cloud Platform Developer Intern | Inovaare Clouds | May – Jul 2025 |
+| Backend Developer Intern | Codecis AI | Jan – Mar 2025 |
+
+</details>
+
+---
+
 ## Tech Stack
 
 **Languages**
